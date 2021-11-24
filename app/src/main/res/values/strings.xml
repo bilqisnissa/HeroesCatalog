@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Catalog</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_detail">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="text_favorite">Favorite</string>
+    <string name="text_share">Share</string>
+    <string name="text_card">Card</string>
+</resources>
